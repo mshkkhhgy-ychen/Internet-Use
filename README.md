@@ -10,7 +10,7 @@ The goal of the project was to apply machine learning models to predict internet
 ### Key Steps in the Project:
 1. **Data Collection**: We used a dataset available on Kaggle that contains behavioral data related to internet usage.
 2. **Data Preprocessing**: This involved handling missing values, feature scaling, and encoding categorical variables.
-3. **Model Selection**: We experimented with various machine learning models, including decision trees, logistic regression, and ensemble methods such as random forests.
+3. **Model Selection**: We experimented with various machine learning models included in the link.
 4. **Evaluation**: We evaluated the models using appropriate performance metrics and selected the best-performing model.
 
 ## Project Files
