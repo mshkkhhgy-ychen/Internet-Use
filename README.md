@@ -1,4 +1,19 @@
-https://internet-use.streamlit.app/
+# CS7641 Machine Learning Project: Internet Addiction Problem
+
+This repository contains the solution to the internet addiction problem as part of the CS7641 Machine Learning course. In this project, we leveraged machine learning techniques to analyze and solve a real-world problem related to internet addiction using data from Kaggle.
+Link: https://internet-use.streamlit.app/
+
+## Project Overview
+
+The goal of the project was to apply machine learning models to predict internet addiction levels based on various behavioral features. We used the provided Kaggle dataset to build and evaluate several predictive models. Our approach involved data preprocessing, feature engineering, model training, and evaluation using metrics such as accuracy, precision, recall, and F1-score.
+
+### Key Steps in the Project:
+1. **Data Collection**: We used a dataset available on Kaggle that contains behavioral data related to internet usage.
+2. **Data Preprocessing**: This involved handling missing values, feature scaling, and encoding categorical variables.
+3. **Model Selection**: We experimented with various machine learning models, including decision trees, logistic regression, and ensemble methods such as random forests.
+4. **Evaluation**: We evaluated the models using appropriate performance metrics and selected the best-performing model.
+
+## Project Files
 
 `main.py`: Streamlit homepage 
 
