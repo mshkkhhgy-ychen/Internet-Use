@@ -27,6 +27,9 @@ The goal of the project was to apply machine learning models to predict internet
 
 `Data`: Training\testing data and Filled Training\testing data
 
+## Course Syllabus
+https://mahdi-roozbahani.github.io/CS46417641-fall2024/
+
 `Data/train_data.csv`: Training data
 
 `Data/test_data.csv`: Testing data
